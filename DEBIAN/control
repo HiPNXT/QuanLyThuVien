@@ -1,0 +1,8 @@
+Package:phanmemquanlythuvien
+Version: 1.0.0
+Section: base
+Priority: optional
+Architecture: all
+Maintainer: Nguyen Anh Phu (Admin)
+Description: Phần mềm quản lý thư viện ver 1.0
+
